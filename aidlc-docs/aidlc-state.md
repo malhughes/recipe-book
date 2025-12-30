@@ -22,9 +22,9 @@
 - [x] Units Generation - EXECUTE
 
 ### 🟢 CONSTRUCTION PHASE
-- [ ] Functional Design - EXECUTE (per unit)
-- [ ] NFR Requirements - EXECUTE (per unit)
-- [ ] NFR Design - EXECUTE (per unit)
+- [x] Functional Design - EXECUTE (per unit)
+- [x] NFR Requirements - EXECUTE (per unit)
+- [x] NFR Design - EXECUTE (per unit)
 - [ ] Infrastructure Design - EXECUTE (per unit)
 - [ ] Code Generation - EXECUTE (per unit)
 - [ ] Build and Test - EXECUTE
@@ -33,7 +33,7 @@
 - [ ] Operations - PLACEHOLDER
 
 ## Current Status
-- **Lifecycle Phase**: INCEPTION
-- **Current Stage**: Units Generation Complete
-- **Next Stage**: CONSTRUCTION PHASE - Functional Design
-- **Status**: Ready to proceed to per-unit development
+- **Lifecycle Phase**: CONSTRUCTION
+- **Current Stage**: Database Unit NFR Design Complete
+- **Next Stage**: Database Unit Infrastructure Design
+- **Status**: Proceeding with Database Unit development
